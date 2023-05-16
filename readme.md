@@ -17,6 +17,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
+<h3> 🤝🏻 Connect with Me </h3>
+<p align="center">
+ <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/burande-sushant/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sushant%20Burande-blue?style=flat-square&logo=linkedin"></a>
+</p>
+
 
 
 
